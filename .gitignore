@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.log
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite3
+
+# MongoDB dumps or backups
+dump/
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit static files
+streamlit/
+
+# PyCharm and VSCode settings
+.idea/
+.vscode/
+
+# Miscellaneous
+*.bak
+*.tmp
